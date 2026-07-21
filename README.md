@@ -58,7 +58,7 @@ os.Branding.init({ div: 'map', logo: 'os-logo-maps-white' });
 
 The function can be called multiple times, making it particularly useful if you have more than one map on a single page.
 
-For further reading on the OS API Branding, refer to the [guidelines document](media/guidelines.pdf).
+For further reading on the OS API Branding, refer to the [guidelines document](https://docs.os.uk/os-apis/core-concepts/os-api-branding).
 
 ## Change Log
 
@@ -75,6 +75,9 @@ For further reading on the OS API Branding, refer to the [guidelines document](m
 - Minor bug fixes.
 - Added CDN support.
 
+**Version 0.4.0** (July 2026)
+- Removed `@import` CSS at-rule in favour of "Arial, Helvetica, sans-serif" font-family.
+- Increased copyright statement font-size for improved legibility.
 
 ## Licence
 

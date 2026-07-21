@@ -1,4 +1,4 @@
-// os-api-branding.js v0.3.1
+// os-api-branding.js v0.4.0
 
 var scriptTag = document.currentScript;
 
